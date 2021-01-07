@@ -1,0 +1,49 @@
+h1{
+    color:red;
+}
+h2{
+    color:blue
+}
+h3{
+    color:purple
+}
+p{
+    color:orange
+}
+li{
+    color:green
+}
+*{
+    border:solid;
+        border:black }
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:400;
+    color: white;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+
+    border-radius: 20px;
+    background-color: white;
+
+    width:310px;
+    font-family: fantasy;
+
+}
+body{
+    background-color: whitesmoke;
+}
+.bodyImg{
+    display: font;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
